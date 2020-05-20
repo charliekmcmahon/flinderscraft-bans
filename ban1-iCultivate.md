@@ -4,7 +4,7 @@
 <h3>Banned by: MaccaThePakka
 <br>
 <h3>Proof/Screenshots:</h3>
-![Screenshot 1](https://cdn.discordapp.com/attachments/693396699711930400/712553335668080640/unknown.png)<br>
+<img href="https://cdn.discordapp.com/attachments/693396699711930400/712553335668080640/unknown.png"></img>
 ![Screenshot 1](https://cdn.discordapp.com/attachments/693396699711930400/712553502404247552/unknown.png)
 ![Screenshot 1](https://cdn.discordapp.com/attachments/693396699711930400/712553677516308480/unknown.png)
 ![Screenshot 1](https://cdn.discordapp.com/attachments/693396699711930400/712553748576075836/unknown.png)
